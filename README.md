@@ -1,0 +1,2 @@
+# CarTradeComp
+ java+mysql
